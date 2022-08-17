@@ -17,16 +17,16 @@ export const useStyles = () => {
           },
         },
         blockHeight: {
-          background: theme.palette.custom.primaryData.one,
+          background: theme.palette.custom.general.surfaceOne,
         },
         blockTime: {
-          background: theme.palette.custom.primaryData.two,
+          background: theme.palette.custom.general.surfaceOne,
         },
         price: {
-          background: theme.palette.custom.primaryData.three,
+          background: theme.palette.custom.general.surfaceOne,
         },
         validators: {
-          background: theme.palette.custom.primaryData.four,
+          background: theme.palette.custom.general.surfaceOne,
         },
       });
     }, { index: 1 },

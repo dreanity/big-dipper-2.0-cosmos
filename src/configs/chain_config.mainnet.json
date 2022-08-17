@@ -1,9 +1,9 @@
 {
   "title": "Saturn Block Explorer",
-  "network": "morpheus-apollo-2",
-  "icon": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/icon.svg?sanitize=true",
+  "network": "saturn-1",
+  "icon": "https://storage.rblock.io/static/logos/Rblock_logo_icon.svg",
   "logo": {
-    "default": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/logo.svg?sanitize=true"
+    "default": "https://storage.rblock.io/static/logos/rblock.svg"
   },
   "prefix": {
     "consensus": "saturnvalcons",
@@ -11,14 +11,14 @@
     "account": "saturn"
   },
   "genesis": {
-    "time": "2022-08-12T11:07:26",
+    "time": "2022-08-16T14:55:04",
     "height": 1
   },
   "primaryTokenUnit": "uhydrogen",
   "votingPowerTokenUnit": "uhydrogen",
   "tokenUnits": {
     "uhydrogen": {
-      "display": "uhydrogen",
+      "display": "hydrogen",
       "exponent": 6
     }
   },

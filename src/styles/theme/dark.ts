@@ -20,7 +20,7 @@ export const darkThemeOverride = {
   palette: {
     type: 'dark',
     primary: {
-      main: Color('#FD3B4C').alpha(0.7).string(),
+      main: Color('#FFD400').string(),
       contrastText: '#fff',
     },
     background: {
